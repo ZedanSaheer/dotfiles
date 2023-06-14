@@ -1,1 +1,0 @@
-export const DISCORD_API_URL = ''
