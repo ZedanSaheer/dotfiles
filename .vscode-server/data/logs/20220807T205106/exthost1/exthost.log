@@ -1,0 +1,22 @@
+[2022-08-07 20:51:09.452] [exthost] [info] Extension host with pid 685 started
+[2022-08-07 20:51:09.462] [exthost] [error] Error: EEXIST: file already exists, open '/home/zdev/.vscode-server/data/User/workspaceStorage/53bad42102c1c0e813aeabb08797f9bc/vscode.lock'
+[2022-08-07 20:51:09.469] [exthost] [info] Lock '/home/zdev/.vscode-server/data/User/workspaceStorage/53bad42102c1c0e813aeabb08797f9bc/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-08-07 20:51:09.472] [exthost] [info] Lock '/home/zdev/.vscode-server/data/User/workspaceStorage/53bad42102c1c0e813aeabb08797f9bc/vscode.lock': The lock looks stale, waiting for 2s.
+[2022-08-07 20:51:09.640] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescript'
+[2022-08-07 20:51:09.683] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-08-07 20:51:09.688] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-08-07 20:51:09.695] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-08-07 20:51:11.473] [exthost] [info] Lock '/home/zdev/.vscode-server/data/User/workspaceStorage/53bad42102c1c0e813aeabb08797f9bc/vscode.lock': The lock looks stale even after waiting for 2s.
+[2022-08-07 20:51:11.473] [exthost] [info] Lock '/home/zdev/.vscode-server/data/User/workspaceStorage/53bad42102c1c0e813aeabb08797f9bc/vscode.lock': Deleting a stale lock.
+[2022-08-07 20:51:11.478] [exthost] [info] Lock '/home/zdev/.vscode-server/data/User/workspaceStorage/53bad42102c1c0e813aeabb08797f9bc/vscode.lock': Lock acquired.
+[2022-08-07 20:51:11.617] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-08-07 20:51:11.689] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-08-07 20:51:11.813] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-07 20:51:11.838] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-07 20:51:11.844] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-07 20:51:12.013] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-07 20:51:12.104] [exthost] [info] Eager extensions activated
+[2022-08-09 15:03:06.302] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-08-09 15:03:06.302] [exthost] [info] Lock '/home/zdev/.vscode-server/data/User/workspaceStorage/53bad42102c1c0e813aeabb08797f9bc/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-08-09 15:03:06.364] [exthost] [warning] {"name":"Canceled"}
+[2022-08-09 15:03:06.365] [exthost] [info] Extension host with pid 685 exiting with code 0

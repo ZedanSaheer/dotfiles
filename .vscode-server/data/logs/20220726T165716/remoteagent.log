@@ -1,0 +1,18 @@
+[2022-07-26 16:57:16.254] [remoteagent] [info] Extension host agent started.
+[2022-07-26 16:57:16.386] [remoteagent] [info] [127.0.0.1][23fb49f6][ManagementConnection] New connection established.
+[2022-07-26 16:57:16.711] [remoteagent] [info] [127.0.0.1][63ea6aa3][ExtensionHostConnection] New connection established.
+[2022-07-26 16:57:17.916] [remoteagent] [info] [127.0.0.1][63ea6aa3][ExtensionHostConnection] <691> Launched Extension Host Process.
+[2022-07-26 17:03:44.288] [remoteagent] [info] Getting Manifest... stevencl.adddoccomments
+[2022-07-26 17:03:44.663] [remoteagent] [info] Installing extension: stevencl.adddoccomments
+[2022-07-26 17:03:45.834] [remoteagent] [info] Downloaded extension: stevencl.adddoccomments /home/zdev/.vscode-server/data/CachedExtensionVSIXs/stevencl.adddoccomments-0.0.8
+[2022-07-26 17:03:45.866] [remoteagent] [info] Extracted extension to /home/zdev/.vscode-server/extensions/.1360d683-60b3-4b9b-932c-cff741cb3fe6: stevencl.adddoccomments
+[2022-07-26 17:03:45.869] [remoteagent] [info] Renamed to /home/zdev/.vscode-server/extensions/stevencl.adddoccomments-0.0.8
+[2022-07-26 17:03:45.870] [remoteagent] [info] Extracting completed. stevencl.adddoccomments
+[2022-07-26 17:03:45.871] [remoteagent] [info] Extension installed successfully: stevencl.adddoccomments
+[2022-07-27 14:22:37.363] [remoteagent] [info] [127.0.0.1][63ea6aa3][ExtensionHostConnection] The client has reconnected.
+[2022-07-27 14:22:37.447] [remoteagent] [info] [127.0.0.1][23fb49f6][ManagementConnection] The client has reconnected.
+[2022-07-27 20:52:49.959] [remoteagent] [info] [127.0.0.1][23fb49f6][ManagementConnection] The client has reconnected.
+[2022-07-27 20:52:50.035] [remoteagent] [info] [127.0.0.1][63ea6aa3][ExtensionHostConnection] The client has reconnected.
+[2022-07-27 22:03:32.565] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-07-28 08:57:08.786] [remoteagent] [info] [127.0.0.1][63ea6aa3][ExtensionHostConnection] The client has reconnected.
+[2022-07-28 08:57:08.863] [remoteagent] [info] [127.0.0.1][23fb49f6][ManagementConnection] The client has reconnected.

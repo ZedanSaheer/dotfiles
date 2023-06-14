@@ -1,0 +1,18 @@
+[2022-07-24 13:41:50.820] [exthost] [info] Extension host with pid 691 started
+[2022-07-24 13:41:50.825] [exthost] [error] Error: EEXIST: file already exists, open '/home/zdev/.vscode-server/data/User/workspaceStorage/53bad42102c1c0e813aeabb08797f9bc/vscode.lock'
+[2022-07-24 13:41:50.829] [exthost] [info] Lock '/home/zdev/.vscode-server/data/User/workspaceStorage/53bad42102c1c0e813aeabb08797f9bc/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-07-24 13:41:50.831] [exthost] [info] Lock '/home/zdev/.vscode-server/data/User/workspaceStorage/53bad42102c1c0e813aeabb08797f9bc/vscode.lock': The pid 7379 appears to be gone.
+[2022-07-24 13:41:50.831] [exthost] [info] Lock '/home/zdev/.vscode-server/data/User/workspaceStorage/53bad42102c1c0e813aeabb08797f9bc/vscode.lock': Deleting a stale lock.
+[2022-07-24 13:41:50.838] [exthost] [info] Lock '/home/zdev/.vscode-server/data/User/workspaceStorage/53bad42102c1c0e813aeabb08797f9bc/vscode.lock': Lock acquired.
+[2022-07-24 13:41:50.923] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescript'
+[2022-07-24 13:41:50.979] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-24 13:41:50.983] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-24 13:41:50.988] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-24 13:41:51.235] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-24 13:41:51.385] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-24 13:41:52.250] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-24 13:41:52.294] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-24 13:41:52.308] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-24 13:41:52.515] [exthost] [info] Eager extensions activated
+[2022-07-24 13:41:54.416] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-24 13:41:54.422] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'

@@ -1,0 +1,2 @@
+[2022-07-22 19:41:47.395] [remoteagent] [info] Extension host agent started.
+[2022-07-22 19:41:47.523] [remoteagent] [error] [127.0.0.1][f1791528][ManagementConnection] Unknown reconnection token (never seen).

@@ -1,0 +1,2 @@
+[2022-08-04 04:27:19.781] [GIT  ] [/home/zdev/projects/discord-dashboard] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 9 ms
+

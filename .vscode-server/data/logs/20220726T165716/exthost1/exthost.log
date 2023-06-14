@@ -1,0 +1,17 @@
+[2022-07-26 16:57:18.175] [exthost] [info] Extension host with pid 691 started
+[2022-07-26 16:57:18.179] [exthost] [error] Error: EEXIST: file already exists, open '/home/zdev/.vscode-server/data/User/workspaceStorage/53bad42102c1c0e813aeabb08797f9bc/vscode.lock'
+[2022-07-26 16:57:18.186] [exthost] [info] Lock '/home/zdev/.vscode-server/data/User/workspaceStorage/53bad42102c1c0e813aeabb08797f9bc/vscode.lock': Lock acquired.
+[2022-07-26 16:57:18.304] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescript'
+[2022-07-26 16:57:18.346] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-26 16:57:18.350] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-26 16:57:18.354] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-26 16:57:18.461] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-26 16:57:18.524] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-26 16:57:18.610] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-26 16:57:18.624] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-26 16:57:18.628] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-26 16:57:18.741] [exthost] [info] Eager extensions activated
+[2022-07-26 16:57:19.729] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-26 16:57:19.736] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-26 17:04:44.866] [exthost] [info] ExtensionService#_doActivateExtension stevencl.addDocComments, startup: false, activationEvent: 'onCommand:extension.addDocComments'
+[2022-07-26 17:55:05.038] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:scss'

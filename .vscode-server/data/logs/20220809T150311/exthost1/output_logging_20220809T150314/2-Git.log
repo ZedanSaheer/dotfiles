@@ -1,0 +1,30 @@
+[2022-08-09T09:33:14.625Z] Log level: Info
+[2022-08-09T09:33:14.631Z] [info] Validating found git in: git
+[2022-08-09T09:33:14.661Z] [info] Using git 2.25.1 from git
+[2022-08-09T09:33:15.009Z] > git rev-parse --show-toplevel [338ms]
+[2022-08-09T09:33:15.009Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-08-09T09:33:15.022Z] > git rev-parse --show-toplevel [3ms]
+[2022-08-09T09:33:15.033Z] > git rev-parse --git-dir --git-common-dir [2ms]
+[2022-08-09T09:33:15.054Z] [info] Open repository: /home/zdev/projects/discord-dashboard/dashboard-client
+[2022-08-09T09:33:15.099Z] > git status -z -uall [10ms]
+[2022-08-09T09:33:15.111Z] > git symbolic-ref --short HEAD [3ms]
+[2022-08-09T09:33:15.117Z] > git rev-parse --show-toplevel [22ms]
+[2022-08-09T09:33:15.126Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [11ms]
+[2022-08-09T09:33:15.141Z] > git remote --verbose [3ms]
+[2022-08-09T09:33:15.142Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [10ms]
+[2022-08-09T09:33:15.147Z] > git rev-parse --git-dir --git-common-dir [23ms]
+[2022-08-09T09:33:15.152Z] [info] Open repository: /home/zdev/projects/discord-dashboard/dashboard-api
+[2022-08-09T09:33:15.215Z] > git status -z -uall [24ms]
+[2022-08-09T09:33:15.228Z] > git rev-parse --show-toplevel [32ms]
+[2022-08-09T09:33:15.228Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-08-09T09:33:15.230Z] > git symbolic-ref --short HEAD [3ms]
+[2022-08-09T09:33:15.241Z] > git config --get commit.template [28ms]
+[2022-08-09T09:33:15.253Z] > git status -z -uall [4ms]
+[2022-08-09T09:33:15.260Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [25ms]
+[2022-08-09T09:33:15.271Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+[2022-08-09T09:33:15.271Z] > git symbolic-ref --short HEAD [12ms]
+[2022-08-09T09:33:15.282Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+[2022-08-09T09:33:15.299Z] > git remote --verbose [30ms]
+[2022-08-09T09:33:15.313Z] > git remote --verbose [15ms]
+[2022-08-09T09:33:15.313Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [20ms]
+[2022-08-09T09:33:15.527Z] > git config --get commit.template [218ms]

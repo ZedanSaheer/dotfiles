@@ -1,0 +1,18 @@
+.index {
+  justify-content: flex-start;
+  flex-direction: column;
+}
+
+.image-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.info-wrapper {
+  margin-top: 10px;
+}
+
+.image {
+  border-radius: 50%;
+}
